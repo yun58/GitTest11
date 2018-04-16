@@ -20,4 +20,11 @@ public class MainActivity extends AppCompatActivity {
          * @param view
          */
     }
+    public void feature2(View view) {
+        /**
+         * feature-2
+         * display HelloWorld
+         * @param view
+         */
+    }
 }
